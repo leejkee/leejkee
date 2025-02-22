@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @leejkee
 - 🌱 I’m currently learning C++.
 - 📫 How to reach me?  Email: <leejykee@yeah.net>
-<!---
-leejkee/leejkee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejkee)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leejkee)
