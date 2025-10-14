@@ -1,3 +1,3 @@
-- 👋 Hi, This is @leejkee.
-- 🌱 I’m currently learning C++.
-- 📫 Email: <leejykee@yeah.net>
+- Hello, this is @leejkee.
+- I'm learning desktop application development.
+- Email: <leejykee@yeah.net>
