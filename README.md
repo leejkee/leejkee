@@ -1,3 +1,7 @@
 - Hello, this is @leejkee.
 - I'm learning desktop application development.
 - Email: <leejykee@yeah.net>
+## Skills
+- C++
+- QtWidgets
+- QtQuick
