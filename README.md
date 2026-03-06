@@ -1,6 +1,5 @@
 ## Introduction
-- I'm learning desktop application development.
+- Learn how to build better desktop application currently.
 - Email: <leejykee@yeah.net>
 ## Skills
-- QtWidgets
-- QtQuick
+- QtWidgets/QtQuick Application
