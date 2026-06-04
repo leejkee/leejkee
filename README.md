@@ -1,5 +1,7 @@
 ## Introduction
-- Learn how to build better desktop application currently.
+- A beginner.
 - Email: <leejykee@yeah.net>
 ## Skills
-- QtWidgets/QtQuick Application
+- GUI
+  - QtWidgets/QtQuick(C++ & QML)
+  - Avalonia(C#)
