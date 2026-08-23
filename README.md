@@ -2,7 +2,7 @@
 
 * Aspiring embedded software engineer focused on MCU firmware development.
 * Currently working with STM32 and learning embedded systems.
-* Email: [leejykee@yeah.net](mailto:leejykee@yeah.net)
+* Email: [leejkee@163.com](mailto:leejkee@163.com)
 
 ## Skills
 
