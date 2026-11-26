@@ -7,7 +7,4 @@
 ## Skills
 
 - C and Modern C++
-- STM32 MCU firmware development
-- Bare-metal programming
-- Peripheral drivers: GPIO, UART, SPI, I2C, and DMA
 - Embedded build systems: CMake and Keil MDK
